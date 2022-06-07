@@ -1,4 +1,1 @@
-- Hey my name is Michael and I love automating stuff
-- I'm most comfortable with Powershell and Python but my toolkit is slowly growing
-- I love learning about automation, offensive security and networking
-- github is awesome :)
+Welcome to muh github 
